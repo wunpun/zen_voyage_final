@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9063F583-D4C4-FCE1-6FB9-E80667B8D29C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/move_player.cs">
+    <Files>
+      <File FileName="Assets/NatureStarterKit2/Editor/ImageEffects/BloomEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/move_player.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zenyoage_final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="move_player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4cbcc951-0e1c-49ce-8e60-01c1a580b64b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
